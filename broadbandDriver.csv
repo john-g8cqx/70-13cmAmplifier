@@ -1,0 +1,11 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,PU1,TO220,1,9V reg,RS  Stock No.7193-3978
+2,"C1,C2,C3",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,3,1nF,
+3,"C4,C5",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,100pF,
+4,"C6,C7",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,1uF,
+5,J3,BarrelJack_Horizontal,1,Barrel_Jack,RS Stock No.122-4878
+6,"L1,L2",L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2,100nH,
+7,L3,L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,10uH,
+8,"U1,U2",PHA-102+,2,PHA-102+,
+9,"J1,J2",SMAedgemount,2,Conn_Coaxial,  RS Stock No.217-7781
+,,Heatsinks (2),,,  RS Stock No.750-0908 
